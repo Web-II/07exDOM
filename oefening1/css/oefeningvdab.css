@@ -1,0 +1,55 @@
+body {
+  font-family: Arial;
+  font-size: 1rem;
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background-color: #328bcb;
+}
+
+div div {
+  margin: 1rem 0;
+}
+
+#zoektermen span {
+  display: inline-block;
+  padding: 0.5rem;
+  border: 1px solid #328bcb;
+  border-radius: 20px;
+  margin: 0.5rem;
+}
+
+#zoektermen span img {
+  padding-left: 1rem;
+}
+
+.vacatureTitel {
+  color: #2f2f2f;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+}
+
+#resultaat div {
+  border: 1px solid #328bcb;
+  border-radius: 20px;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.knop {
+  background-color: #328bcb;
+  color: white;
+  padding: 0.5rem;
+}
+#message {
+  font-size: 1.2rem;
+  color: #328bcb;
+}
