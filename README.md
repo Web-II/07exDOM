@@ -1,6 +1,6 @@
 # Oefeningen DOM
 
-## Oefening 1 VDAB [Examen Voorjaar 2017]
+## Oefening 1 VDAB 
 
 De werking van de webpagina is als volgt
 
@@ -67,7 +67,7 @@ Zorg ervoor dat bij het opstarten van de applicatie de zoektermen lokaal worden 
 
 ![oef1_8.png](docs/oef1_8.png)
 
-## Oefening 2 Bank [Examen Voorjaar 2016]
+## Oefening 2 Bank 
 
 Op de officiële KBC website kan je een overzicht krijgen van je uitgaven verdeeld over verschillende categorieën. De bedoeling van deze oefening is dat we een sterk vereenvoudigde versie hiervan maken.
 
@@ -130,7 +130,7 @@ Implementeer de functie tekst waarin de onderstaande html code dynamisch wordt g
 
 ![oef2_6.PNG](docs/oef2_6.PNG)
 
-## Oefening 3 Boeken [Examen 2de zit 2017]
+## Oefening 3 Boeken 
 
 De webpagina bevat een overzicht van je boeken. Sommige boeken heb je reeds gelezen en worden getoond in een roze kader. De boeken die je nog niet las staan in een zwart kader. Wanneer je op een boek klikt dat je nog niet las verandert de kleur. Wanneer je klikt op een reeds gelezen boek verandert er niets. De boeken die je reeds las, worden bijgehouden in de storage. Zo krijg je telkens het correcte overzicht wanneer je de webpagina opent.
 
