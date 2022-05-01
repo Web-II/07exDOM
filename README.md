@@ -63,7 +63,7 @@ Implementeer de methode zoektermenToHtml om de zoektermen bovenaan te laten zien
 
 ![oef1_7.PNG](docs/oef1_7.PNG)
 
-Zorg ervoor dat bij het opstarten van de applicatie de zoektermen lokaal worden opgehaald, maak hiervoor gebruik van de methode getZoektermenFromStorage om de zoektermen op te vragen uit de storage. Implenteer het klikken op de knop zoekterm toevoegen.
+Zorg ervoor dat bij het opstarten van de applicatie de zoektermen lokaal worden opgehaald, maak hiervoor gebruik van de methode getZoektermenFromStorage om de zoektermen op te vragen uit de storage. 
 
 ![oef1_8.png](docs/oef1_8.png)
 
