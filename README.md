@@ -37,7 +37,7 @@ Controleer of de testcode de gewenste resultaten geeft. Zet de testcode voor Dee
 
 ![oef1_4.png](docs/oef1_4.png)
 
-Deel 3: VadbApp
+Deel 3: VdabApp
 
 Zorg ervoor dat in de init functie een VdabApp object wordt aangemaakt.
 Indien op de knop Zoekterm wordt geklikt moet de zoekterm toegevoegd worden.
