@@ -1,21 +1,30 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <title>Mijn boekenplank</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/site.css"> </head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/site.css" />
+  </head>
 
-<body>
+  <body>
     <div class="container">
-        <div class="page-header">
-            <h2>Mijn boekenplank</h2> </div>
-        <div id="boeken"> </div>
-        <div id="navigatie" class="center"> </div>
+      <div class="page-header">
+        <h2>Mijn boekenplank</h2>
+      </div>
+      <div id="boeken"></div>
+      <div id="navigatie" class="center">
+        <p id="paginanummer"></p>
+        <p>
+          <input type="button" value="&lt;" id="vorige" title="Vorige" />
+          <input type="button" value="&gt;" id="volgende" title="Volgende" />
+        </p>
+      </div>
     </div>
-    <script src="scripts/boeken.js"></script>
-</body>
-
+    <script src="js/index.js" type="module"></script>
+  </body>
 </html>

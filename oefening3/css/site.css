@@ -1,12 +1,11 @@
-.read {
-    background-color: fuchsia
-   
+.notread {
+  background-color: black;
 }
 
-.notread {
-    background-color: black
+.read {
+  background-color: fuchsia;
 }
 
 .center {
-    text-align: center;
+  text-align: center;
 }
